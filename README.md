@@ -1,3 +1,4 @@
+A small macropod featuring 12 programmable keys and 2 rotary encoders. Uses a sandwich design to hold down the pcb and 12 mx switches with a top black plate. 
 
 **Materials for 2 macropads** *add 1 microcontroller and 2 rotary encoders and 2 encoder knobs for 1 more*
 
