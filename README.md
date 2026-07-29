@@ -1,5 +1,5 @@
 
-**Materials for 2 macropads**
+**Materials for 2 macropads** *add 1 microcontroller and 2 rotary encoders and 2 encoder knobs for 1 more*
 
 | Item | Qty | Description | Vendor | Est. Price
 | :--- | :---: | :--- | :--- | :---: |
