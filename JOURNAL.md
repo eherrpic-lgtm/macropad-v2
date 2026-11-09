@@ -12,7 +12,7 @@
 - Mapped out the hardware constraints and pin requirements for the microcontroller, key matrix, and encoder inputs (utilizing rotation pins A/B, bypassing encoder push-clicks).
 - Selected components, switches, and keycaps for an ergonomic desktop footprint.
 
-<img width="1710" height="1112" alt="Macropad inspo" src="https://github.com/user-attachments/assets/583c94c9-6709-4e96-8cc3-2f383b5b332e" />
+- <img width="1710" height="1112" alt="Macropad inspo" src="https://github.com/user-attachments/assets/fc74f5db-2a93-48a5-8331-ef9e27f42c16" />
 
 ---
 
